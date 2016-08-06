@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.bg-grey {
+    background: #CCC;
+    height:400px;
+}
+
+.bg-white {
+    background: #FFF;
+    height:400px;
+}
+
+.no {
+    list-style-type: none;
+}
+
+.skill {
+    width: 60%;
+    display: inline-block;
+}
+
+.competency {
+    float: right;
+}
+
+.project {
+    height:200px;
+}
